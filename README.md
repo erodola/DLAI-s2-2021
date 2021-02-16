@@ -4,7 +4,7 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 
 ### News
 
-- **16/02/2021:** Site is up.
+- **16/02/2021:** The first lecture will be on **Wed 24 February**.
 
 ### Logistics
 

@@ -1,6 +1,6 @@
-## Deep Learning & Applied AI
+## Deep Learning & Applied AI @Sapienza
 
-Course material
+Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 
 ### News
 
@@ -14,7 +14,7 @@ Course material
 
 **When:** Wednesdays 09:00--12:00 and Thursdays 17:00--19:00 ([official schedule](https://www.studiareinformatica.uniroma1.it/laurea-magistrale/orario-lezioni))
 
-**Where:** Aula 1 - Aule L Via del Castro Laurenziano 7a
+**Where:** Aula 1 - Aule L Via del Castro Laurenziano 7a and remotely via Zoom ([link to the virtual classroom](to come))
 
 **Office Hours:** Remotely by appointment, contact Prof. Rodolà
 

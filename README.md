@@ -14,7 +14,10 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 
 **When:** Wednesdays 09:00--12:00 and Thursdays 17:00--19:00 ([official schedule](https://www.studiareinformatica.uniroma1.it/laurea-magistrale/orario-lezioni))
 
-**Where:** Aula 1 - Aule L Via del Castro Laurenziano 7a and remotely via Zoom ([link to the virtual classroom](to come))
+**Where:** 
+
+- Physically: Aula 1 - Aule L Via del Castro Laurenziano 7a
+- Virtually: Zoom ([link to the virtual classroom](https://zoom.us/j/4752349941?pwd=U0doeGFLWFFDSWlzWWxvd0JGMDRndz09)), Meeting ID: 475 234 9941, Passcode: 3K7xrM
 
 **Office Hours:** Remotely by appointment, contact Prof. Rodolà
 

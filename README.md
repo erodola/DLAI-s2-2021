@@ -4,7 +4,7 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 
 ### News
 
-- **16/02/2021:** Site is up. Please check later for the Zoom link to the forthcoming lectures.
+- **16/02/2021:** Site is up.
 
 ### Logistics
 

@@ -19,7 +19,7 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 - Physically: Aula 1 - Aule L Via del Castro Laurenziano 7a
 - Virtually: Zoom ([link to the virtual classroom](https://zoom.us/j/4752349941?pwd=U0doeGFLWFFDSWlzWWxvd0JGMDRndz09)), Meeting ID: 475 234 9941, Passcode: 3K7xrM
 
-**Office Hours:** Remotely by appointment, contact Prof. Rodolà
+**Q & A:** Please use the issue system of Github. [Here](https://github.com/erodola/DLAI-s2-2021) is the link to the course repository, you'll need to create a free account to access it.
 
 ### Pre-requisites
 
@@ -38,7 +38,7 @@ Check later for details.
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
 | | |
-Wed 24 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2021/raw/master/01_intro/01-intro.pdf) | 
+Wed 24 Feb | Introduction | [slides - to come](https://github.com/erodola/DLAI-s2-2021/raw/master/01_intro/01-intro.pdf) | 
 | | |
-Thu 25 Feb | Data, features, and embeddings |  |
+Thu 25 Feb | Data, features, and embeddings | [slides - to come](https://github.com/erodola/DLAI-s2-2021/raw/master/02_data/02-data.pdf) |
 | | |

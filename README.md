@@ -36,6 +36,7 @@ Check later for details.
 ### Lectures
 
 All the lectures will be recorded and stored in this [Google Drive folder](https://drive.google.com/drive/folders/1ByxH8071EwBJkkRpb1NpkyIG7MM3psHl?usp=sharing).
+
 Please note that the audio quality will not be very good in general, due to technical issues.
 
 **Date** | **Topic** | **Reading** | **Code & Data**

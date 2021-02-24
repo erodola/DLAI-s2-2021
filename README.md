@@ -4,7 +4,7 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 
 ### News
 
-- **16/02/2021:** The first lecture will be on **Wed 24 February**.
+- **24/02/2021:** Scroll below for a link to the Google Drive folder containing lecture recordings. New videos will be added throughout the course.
 
 ### Logistics
 
@@ -35,7 +35,7 @@ Check later for details.
 
 ### Lectures
 
-All the lectures will be recorded and stored in this [Google Drive folder](https://drive.google.com/drive/folders/1ByxH8071EwBJkkRpb1NpkyIG7MM3psHl?usp=sharing).
+All the lectures (video, audio and chat script) will be recorded and stored in this [Google Drive folder](https://drive.google.com/drive/folders/1ByxH8071EwBJkkRpb1NpkyIG7MM3psHl?usp=sharing).
 
 Please note that the audio quality will not be very good in general, due to technical issues.
 

@@ -35,10 +35,14 @@ Check later for details.
 
 ### Lectures
 
+All the lectures will be recorded and stored in this [Google Drive folder](https://drive.google.com/drive/folders/1ByxH8071EwBJkkRpb1NpkyIG7MM3psHl?usp=sharing).
+
+Please note that the audio quality will not be very good in general, due to technical issues.
+
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
 | | |
-Wed 24 Feb | Introduction | [slides - to come](https://github.com/erodola/DLAI-s2-2021/raw/master/01_intro/01-intro.pdf) | 
+Wed 24 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2021/blob/main/01_intro/01-intro.pdf) | 
 | | |
 Thu 25 Feb | Data, features, and embeddings | [slides - to come](https://github.com/erodola/DLAI-s2-2021/raw/master/02_data/02-data.pdf) |
 | | |

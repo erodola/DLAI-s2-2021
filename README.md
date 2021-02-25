@@ -17,7 +17,9 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 **Where:** 
 
 - Physically: Aula 1 - Aule L Via del Castro Laurenziano 7a
-- Virtually: Zoom ([link to the virtual classroom](https://zoom.us/j/4752349941?pwd=U0doeGFLWFFDSWlzWWxvd0JGMDRndz09)), Meeting ID: 475 234 9941, Passcode: 3K7xrM
+- Virtually: Zoom ([link to the virtual classroom](https://zoom.us/j/4752349941?pwd=U0doeGFLWFFDSWlzWWxvd0JGMDRndz09)), Meeting ID: 475 234 9941, Passcode: 3K7xrM. 
+
+*Important*: Please use **Infostud Lab** (not Prodigit!) for booking a seat in the room. This should be done **no later than 48h** from the start of the lecture.
 
 **Q & A:** Please use the issue system of Github. [Here](https://github.com/erodola/DLAI-s2-2021) is the link to the course repository, you'll need to create a free account to access it.
 

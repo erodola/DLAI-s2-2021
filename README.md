@@ -47,5 +47,5 @@ Please note that the audio quality will not be very good in general, due to tech
 | | |
 Wed 24 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2021/blob/main/01_intro/01-intro.pdf) | 
 | | |
-Thu 25 Feb | Data, features, and embeddings | [slides - to come](https://github.com/erodola/DLAI-s2-2021/raw/master/02_data/02-data.pdf) |
+Thu 25 Feb | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2021/blob/main/02_data/02-data.pdf) |
 | | |

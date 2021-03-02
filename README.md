@@ -4,7 +4,7 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 
 ### News
 
-- **24/02/2021:** Scroll below for a link to the Google Drive folder containing lecture recordings. New videos will be added throughout the course.
+- **02/03/2021:** The lecture on March 3 will be our first live coding session. We will use a [Discord](https://discord.com/) server as our virtual meeting place. Please create an account (it's free); further details will be shared as a github issue.
 
 ### Logistics
 
@@ -48,4 +48,6 @@ Please note that the audio quality will not be very good in general, due to tech
 Wed 24 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/01_intro/01-intro.pdf) | 
 | | |
 Thu 25 Feb | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/02_data/02-data.pdf) |
+| | |
+Wed 03 Mar | Tensor manipulation |  |
 | | |

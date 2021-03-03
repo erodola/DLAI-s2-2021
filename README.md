@@ -51,3 +51,5 @@ Thu 25 Feb | Data, features, and embeddings | [slides](https://github.com/erodol
 | | |
 Wed 03 Mar | Tensor manipulation |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/01/01_Tensor_basics_2021.ipynb)
 | | |
+Thu 04 Mar | Linear algebra revisited | [slides - to come] |
+| | |

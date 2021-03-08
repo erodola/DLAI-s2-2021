@@ -44,12 +44,7 @@ Please note that the audio quality will not be very good in general, due to tech
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
-| | |
 Wed 24 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/01_intro/01-intro.pdf) | 
-| | |
 Thu 25 Feb | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/02_data/02-data.pdf) |
-| | |
 Wed 03 Mar | Tensor manipulation |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/01/01_Tensor_basics_2021.ipynb)
-| | |
 Thu 04 Mar | Linear algebra revisited | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/03_linalg/03-linalg.pdf) |
-| | |

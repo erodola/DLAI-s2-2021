@@ -14,13 +14,13 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 
 **When:** Wednesdays 09:00--12:00 and Thursdays 17:00--19:00 ([official schedule](https://www.studiareinformatica.uniroma1.it/laurea-magistrale/orario-lezioni))
 
-**Where:** 
+**Where:**
 
 - Physically: Aula 1 - Aule L Via del Castro Laurenziano 7a
 
 *Important*: Please use **Infostud Lab** (not Prodigit!) for booking a seat in the classroom. This should be done **no later than 48h** from the start of the lecture.
 
-- Virtually: Zoom ([link to the virtual classroom](https://zoom.us/j/4752349941?pwd=U0doeGFLWFFDSWlzWWxvd0JGMDRndz09)), Meeting ID: 475 234 9941, Passcode: 3K7xrM. 
+- Virtually: Zoom ([link to the virtual classroom](https://zoom.us/j/4752349941?pwd=U0doeGFLWFFDSWlzWWxvd0JGMDRndz09)), Meeting ID: 475 234 9941, Passcode: 3K7xrM.
 
 **Q & A:** Please use the issue system of Github. [Here](https://github.com/erodola/DLAI-s2-2021) is the link to the course repository, you'll need to create a free account to access it.
 
@@ -44,7 +44,8 @@ Please note that the audio quality will not be very good in general, due to tech
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
-Wed 24 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/01_intro/01-intro.pdf) | 
+Wed 24 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/01_intro/01-intro.pdf) |
 Thu 25 Feb | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/02_data/02-data.pdf) |
 Wed 03 Mar | Tensor manipulation |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/01/01_Tensor_basics_2021.ipynb)
 Thu 04 Mar | Linear algebra revisited | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/03_linalg/03-linalg.pdf) |
+Wed 10 Mar | Tensor operations   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/02/02_Tensor_operations_2021.ipynb)

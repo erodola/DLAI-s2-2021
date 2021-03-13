@@ -4,7 +4,7 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 
 ### News
 
-- **02/03/2021:** The lecture on March 3 will be our first live coding session. We will use a [Discord](https://discord.com/) server as our virtual meeting place. Please create an account (it's free); further details will be shared as a github issue.
+- **12/03/2021:** All lectures will be **held remotely** until further notice. Please refer to the github issue for questions and further details.
 
 ### Logistics
 

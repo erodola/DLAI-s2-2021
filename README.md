@@ -53,3 +53,4 @@ Thu 11 Mar | Linear regression, convexity, and gradients | [slides](https://gith
 Wed 17 Mar | Linear models and Pytorch Datasets   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/03/03_Linear_models_and_Pytorch_Datasets_2021.ipynb) |
 Thu 18 Mar | Going nonlinear, overfitting, and regularization | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/05_nonlinear/05-nonlinear.pdf) |
 Wed 24 Mar | Logistic Regression and Optimization   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/04/4_Logistic_Regression_and_Optimization.ipynb) |
+Thu 25 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/06_sgd/06-sgd.pdf) |

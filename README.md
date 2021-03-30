@@ -55,6 +55,6 @@ Thu 18 Mar | Going nonlinear, overfitting, and regularization | [slides](https:/
 Wed 24 Mar | Logistic Regression and Optimization   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/04/4_Logistic_Regression_and_Optimization.ipynb) |
 Thu 25 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/06_sgd/06-sgd.pdf) |
 Wed 31 Mar | Multi-layer perceptron and back-propagation | [slides - to come] |
-Thu 01 Apr | **No lecture due to Easter Holidays** |  |
+~~Thu 01 Apr | **No lecture due to Easter Holidays** |  |~~
 Wed 07 Apr | Autograd and Modules | | [notebook - to come] |
 Thu 08 Apr | **Midterm self-evaluation test** | |

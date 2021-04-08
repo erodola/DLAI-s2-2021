@@ -56,5 +56,5 @@ Wed 24 Mar | Logistic Regression and Optimization   |  | [![Open In Colab](https
 Thu 25 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/06_sgd/06-sgd.pdf) |
 Wed 31 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/07_mlp/07-mlp.pdf) |
 ~~Thu 01 Apr~~ | ~~**No lecture due to Easter Holidays**~~ |  |
-Wed 07 Apr | Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/05/5_Autograd_and_Modules_2021.ipynb) | 
-Thu 08 Apr | **Midterm self-evaluation test** | [sheet - to come] |
+Wed 07 Apr | Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/05/5_Autograd_and_Modules_2021.ipynb) |
+Thu 08 Apr | **Midterm self-evaluation test** | [pdf](https://github.com/erodola/DLAI-s2-2021/raw/main/midterm/sheet.pdf) |

@@ -59,3 +59,4 @@ Wed 31 Mar | Multi-layer perceptron and back-propagation | [slides](https://gith
 ~~Thu 01 Apr~~ | ~~**No lecture due to Easter Holidays**~~ |  |
 Wed 07 Apr | Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/05/5_Autograd_and_Modules_2021.ipynb) |
 Thu 08 Apr | **Midterm self-evaluation test** | [midterm](https://github.com/erodola/DLAI-s2-2021/raw/main/midterm/sheet.pdf); [evaluations](https://github.com/erodola/DLAI-s2-2021/raw/main/midterm/evaluations.pdf) |
+Wed 14 Apr | Convolutional_Neural_Networks   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/06/6_Convolutional_Neural_Networks_2021.ipynb) |

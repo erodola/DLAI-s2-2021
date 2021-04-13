@@ -4,6 +4,7 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 
 ### News
 
+- **13/04/2021:** Midterm evaluations are [available](https://github.com/erodola/DLAI-s2-2021/raw/main/midterm/evaluations.pdf). Remember, those evaluations *will not* influence the final grade; you can ask for clarifications about your solution in the lab session tomorrow, 14/04/2021.
 - **30/03/2021:** We will have a **theoretical lecture instead of the lab session** on March 31st. Then, no lecture on April 1st due to Easter period. The week after, on April 8th, there will be the **self-evaluation test** (not graded).
 
 ### Logistics
@@ -57,4 +58,4 @@ Thu 25 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/D
 Wed 31 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/07_mlp/07-mlp.pdf) |
 ~~Thu 01 Apr~~ | ~~**No lecture due to Easter Holidays**~~ |  |
 Wed 07 Apr | Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/05/5_Autograd_and_Modules_2021.ipynb) |
-Thu 08 Apr | **Midterm self-evaluation test** | [pdf](https://github.com/erodola/DLAI-s2-2021/raw/main/midterm/sheet.pdf) |
+Thu 08 Apr | **Midterm self-evaluation test** | [midterm](https://github.com/erodola/DLAI-s2-2021/raw/main/midterm/sheet.pdf); [evaluations](https://github.com/erodola/DLAI-s2-2021/raw/main/midterm/evaluations.pdf) |

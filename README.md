@@ -4,7 +4,8 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 
 ### News
 
-- **13/04/2021:** Midterm evaluations are [available](https://github.com/erodola/DLAI-s2-2021/raw/main/midterm/evaluations.pdf). Remember, those evaluations *will not* influence the final grade; you can ask for clarifications about your solution in the lab session tomorrow, 14/04/2021.
+- **19/04/2021:** The lectures of **April 21st** and **April 22nd** will be held exclusively online.
+- **19/04/2021:** We have updated the grading section, please scroll down for further details.
 
 ### Logistics
 
@@ -34,7 +35,16 @@ Due to the continuously evolving nature of the topic, there is no fixed textbook
 
 ### Grading
 
-Check later for details.
+Evaluation proceeds according to the following steps:
+
+- A midterm self-evaluation test (optional, does not concur to the final grade)
+- A final written exam (**mandatory**, accounts for 60% of the final grade)
+- A project (**mandatory**, accounts for 40% of the final grade)
+- An oral exam (optional, attributes at most 3 points, added to or subtracted from the final grade)
+
+The _cum laude_ can be obtained only by taking the oral exam. For students who already have a very high score with written exam + project, the oral exam is meant to confirm the high score.
+
+The list of **projects** will be published soon. Each project must be accompanied with code to a github repository, and with a 2 page report using a fixed template we will provide. Projects can be made in groups of at most 2 students.
 
 ### Lectures
 

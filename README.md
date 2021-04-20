@@ -4,6 +4,7 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 
 ### News
 
+- **20/04/2021:** The lab of **April 21st** will begin with a live code session at 9:30, be on time!
 - **19/04/2021:** The lectures of **April 21st** and **April 22nd** will be held exclusively online.
 - **19/04/2021:** We have updated the grading section, please scroll down for further details.
 

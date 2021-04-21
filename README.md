@@ -72,3 +72,4 @@ Wed 07 Apr | Autograd and Modules | | [![Open In Colab](https://colab.research.g
 Thu 08 Apr | **Midterm self-evaluation test** | [midterm](https://github.com/erodola/DLAI-s2-2021/raw/main/midterm/sheet.pdf); [evaluations](https://github.com/erodola/DLAI-s2-2021/raw/main/midterm/evaluations.pdf) |
 Wed 14 Apr | Convolutional Neural Networks   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/06/6_Convolutional_Neural_Networks_2021.ipynb) |
 Thu 15 Apr | Convolutional Neural Networks | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/08_cnn/08-cnn.pdf) |
+Wed 21 Apr | Uncertainty, regularization and the deep learning toolset  |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/07/7_Uncertainty,_regularization_and_the_deep_learning_toolset.ipynb) |

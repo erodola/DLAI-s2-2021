@@ -5,8 +5,6 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 ### News
 
 - **21/04/2021:** Please fill out the **OPIS** questionnaire (instructions [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_students_opinions_questionnaire_2020_2021.pdf)). The code for this course is KIW0A907.
-- **20/04/2021:** The lab of **April 21st** will begin with a live code session at 9:30, be on time!
-- **19/04/2021:** The lectures of **April 21st** and **April 22nd** will be held exclusively online.
 - **19/04/2021:** We have updated the grading section, please scroll down for further details.
 
 ### Logistics

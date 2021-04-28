@@ -5,6 +5,7 @@ Course material, 2nd semester a.y. 2020/2021, Dept. of Computer Science
 ### News
 
 - **28/04/2021:** The list of projects has been published. Please refer to [this issue](https://github.com/erodola/DLAI-s2-2021/issues/19) for further details.
+- **21/04/2021:** Please fill out the OPIS questionnaire (instructions [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_students_opinions_questionnaire_2020_2021.pdf)). The code for this course is KIW0A907.
 
 ### Logistics
 

@@ -44,7 +44,7 @@ Evaluation proceeds according to the following steps:
 
 The _cum laude_ can be obtained only by taking the oral exam. For students who already have a very high score with written exam + project, the oral exam is meant to confirm the high score.
 
-The list of **projects** is now published (details [here](https://github.com/erodola/DLAI-s2-2021/issues/19)). Each project must be accompanied with code to a github repository, and with a 2 page report using a fixed template we will provide. Projects can be made in groups of at most 2 students.
+The list of **projects** is now published (details [here](https://github.com/erodola/DLAI-s2-2021/issues/19)). Each project must be accompanied with code to a github repository, and with a 2 page report using [this](https://github.com/erodola/DLAI-s2-2021/files/6393267/template.zip) fixed template. Projects can be made in groups of at most 2 students.
 
 ### Lectures
 

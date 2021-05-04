@@ -74,4 +74,4 @@ Wed 21 Apr | Uncertainty, regularization and the deep learning toolset  |  | [![
 Thu 22 Apr | **Invited lecture by Giambattista Parascandolo** Memorization and Invariances in Neural networks & Learning abstract models | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/09_invited/slides.pdf) | [Learning explanations that are hard to vary](https://github.com/gibipara92/learning-explanations-hard-to-vary); [Adaptive skip intervals](https://github.com/neitzal/adaptive-skip-intervals); [Teacher-student framework](https://openreview.net/forum?id=ECuvULjFQia)
 Wed 28 Apr | Variational AutoEncoders   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/08/8_Variational_Autoencoders_(VAEs).ipynb) |
 Thu 29 Apr | Regularization | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/09_regular/09-regular.pdf) |
-Wed 05 May | Deep generative models | [slides - to come] |
+Wed 05 May | Deep generative models | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/10_generative/10-generative.pdf) |

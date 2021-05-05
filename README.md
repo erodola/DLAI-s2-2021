@@ -75,3 +75,4 @@ Thu 22 Apr | **Invited lecture by Giambattista Parascandolo** Memorization and I
 Wed 28 Apr | Variational AutoEncoders   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/08/8_Variational_Autoencoders_(VAEs).ipynb) |
 Thu 29 Apr | Regularization | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/09_regular/09-regular.pdf) |
 Wed 05 May | Deep generative models | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/10_generative/10-generative.pdf) |
+Thu 06 May | Adversarial training | [slides - to come] |

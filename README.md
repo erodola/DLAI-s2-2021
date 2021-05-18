@@ -78,3 +78,6 @@ Wed 05 May | Deep generative models | [slides](https://github.com/erodola/DLAI-s
 Thu 06 May | Adversarial training | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/11_adversarial/11-adversarial.pdf) |
 Wed 12 May | CycleGAN and Adversarial Attacks  |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/09/CycleGAN_and_Adversarial_Attacks.ipynb) |
 Thu 13 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/12_gdl/12-gdl.pdf); [video by Michael Bronstein](https://drive.google.com/file/d/1-8oatGaKSiR0XFzprBktAIA9P5qDTco5/view) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/10/Geometric_deep_learning.ipynb) |
+Wed 19 May | Self-attention and transformers |  |
+
+**End**

@@ -47,7 +47,12 @@ The _cum laude_ can be obtained only by taking the oral exam. For students who a
 
 The list of **projects** is now published (details [here](https://github.com/erodola/DLAI-s2-2021/issues/19)). Each project must be accompanied with code to a github repository, and with a 2 page report using [this](https://github.com/erodola/DLAI-s2-2021/files/6393267/template.zip) fixed template. Projects can be made in groups of at most 2 students.
 
-Here you can find 
+Here you can find exam sheets from the past exam sessions:
+
+- [June 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/June-2021.pdf)
+- [July 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/July-2021.pdf)
+- [September 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/September-2021.pdf)
+- [October 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/October-2021.pdf)
 
 ### Lectures
 

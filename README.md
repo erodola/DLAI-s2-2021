@@ -47,6 +47,8 @@ The _cum laude_ can be obtained only by taking the oral exam. For students who a
 
 The list of **projects** is now published (details [here](https://github.com/erodola/DLAI-s2-2021/issues/19)). Each project must be accompanied with code to a github repository, and with a 2 page report using [this](https://github.com/erodola/DLAI-s2-2021/files/6393267/template.zip) fixed template. Projects can be made in groups of at most 2 students.
 
+Here you can find 
+
 ### Lectures
 
 All the lectures (video, audio and chat script) will be recorded and stored in this [Google Drive folder](https://drive.google.com/drive/folders/1ByxH8071EwBJkkRpb1NpkyIG7MM3psHl?usp=sharing).
@@ -66,7 +68,7 @@ Thu 18 Mar | Going nonlinear, overfitting, and regularization | [slides](https:/
 Wed 24 Mar | Logistic Regression and Optimization   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/04/4_Logistic_Regression_and_Optimization.ipynb) |
 Thu 25 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/06_sgd/06-sgd.pdf) |
 Wed 31 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2021/raw/main/07_mlp/07-mlp.pdf) |
-~~Thu 01 Apr~~ | ~~**No lecture due to Easter Holidays**~~ |  |
+~~Thu 01 Apr~~ | **No lecture due to Easter Holidays** |  |
 Wed 07 Apr | Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/05/5_Autograd_and_Modules_2021.ipynb) |
 Thu 08 Apr | **Midterm self-evaluation test** | [midterm](https://github.com/erodola/DLAI-s2-2021/raw/main/midterm/sheet.pdf); [evaluations](https://github.com/erodola/DLAI-s2-2021/raw/main/midterm/evaluations.pdf) |
 Wed 14 Apr | Convolutional Neural Networks   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2021/blob/main/labs/06/6_Convolutional_Neural_Networks_2021.ipynb) |
